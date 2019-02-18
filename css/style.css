@@ -445,7 +445,7 @@ header{
   }
   
   #food-menu p {
-    margin-bottom: 3px;
+    margin-bottom: 20px;
   }
 
   /*BUTTON STYLE*/
@@ -748,10 +748,10 @@ label {
 .btn {
   background-color: #4CAF50;
   color: white;
-  padding: 12px;
-  margin: 10px 0;
+  padding: 2px;
+  margin: 5px 0;
   border: none;
-  width: 100%;
+  width: 150px;
   border-radius: 3px;
   cursor: pointer;
   font-size: 17px;
